@@ -77,7 +77,7 @@ Through this project, I developed and demonstrated the following skills:
 - Walmart_Project_Python.ipynb <- Python code for t-tests & analysis
 - Walmart_Sales_SQL.sql <- SQL queries for business questions
 - Walmart_Uncleaned_Sales_Data <- Original, uncleaned data file
-- Walmart Data Analysis Report.docx <- Written report with tables & appendices
+- Walmart Data Analysis Report.pdf <- Written report with tables & appendices
 
 ---
 
